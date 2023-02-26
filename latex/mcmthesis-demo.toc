@@ -1,0 +1,36 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Problem Background}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Restatement of the Problem}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Problem Analysis}{2}{subsection.1.3}%
+\contentsline {section}{\numberline {2}General Assumptions and Notations}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Assumptions}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Notations}{4}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Analysis and prediction of Number of reported results}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Data preprocessing}{4}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Modification of abnormal words}{4}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Correction of abnormal values}{5}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Delete abnormal data}{5}{subsubsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.2}Establishment of model}{5}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Broadbent-Treisman Attenuation Model}{6}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Wordle Information Propagation Model based on Complex Network Propagation Dynamics}{7}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Model summary and interval prediction}{9}{subsubsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.3}Word feature}{10}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Intuitive features}{10}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Hidden Features}{10}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}Information entropy}{11}{subsubsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.4}Correlation analysis between word attribute and number of attempts}{12}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Regression prediction on the number of guesses}{13}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Stepwise regression model}{13}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Uncertain factors}{14}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Prediction of model}{15}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Test of the model}{15}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Classification and evaluation of word difficulty}{15}{section.5}%
+\contentsline {subsection}{\numberline {5.1}K-means construction of classification model}{15}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Construction of difficulty evaluation model}{17}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Verification of classification evaluation model}{18}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}EERIE difficulty prediction}{18}{subsection.5.4}%
+\contentsline {section}{\numberline {6}Some interesting discovery}{19}{section.6}%
+\contentsline {section}{\numberline {7}Conclusion}{20}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Strengths}{20}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Possible Improvements}{21}{subsection.7.2}%
+\contentsline {section}{Appendices}{24}{section*.28}%
